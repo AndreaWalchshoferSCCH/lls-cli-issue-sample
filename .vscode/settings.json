@@ -1,0 +1,30 @@
+{
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+  
+    "editor.tabSize": 2,
+    "editor.useTabStops": false,
+
+    "Lua.hint.enable": true,
+    
+    "Lua.diagnostics.groupFileStatus": {
+      "ambiguity"     : "None",
+      "await"         : "None",
+      "codestyle"     : "None",
+      "duplicate"     : "None",
+      "global"        : "None",
+      "luadoc"        : "None",
+      "redefined"     : "None",
+      "strict"        : "None",
+      "strong"        : "None",
+      "type-check"    : "None",
+      "unbalanced"    : "None",
+      "unused"        : "None"
+    },
+  
+    "Lua.diagnostics.disable": [
+      "cast-local-type"
+    ]
+  
+  }
+  
