@@ -1,0 +1,20 @@
+{
+  "Lua.diagnostics.groupFileStatus": {
+    "ambiguity"     : "None",
+    "await"         : "None",
+    "codestyle"     : "None",
+    "duplicate"     : "None",
+    "global"        : "None",
+    "luadoc"        : "None",
+    "redefined"     : "None",
+    "strict"        : "None",
+    "strong"        : "None",
+    "type-check"    : "None",
+    "unbalanced"    : "None",
+    "unused"        : "None"
+  },
+
+  "Lua.diagnostics.disable": [
+    "cast-local-type"
+  ]
+}

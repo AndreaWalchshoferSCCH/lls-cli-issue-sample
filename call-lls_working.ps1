@@ -1,0 +1,1 @@
+.\language-server\bin\lua-language-server.exe --check .\src --configpath $PSScriptRoot\.vscode\settings.json
